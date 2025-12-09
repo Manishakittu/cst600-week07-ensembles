@@ -30,7 +30,7 @@ cst600-week07-ensembles/ │ ├── README.md ├── requirements.txt ├�
 
 **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/cst600-week07-ensembles.git
+   git clone https://github.com/Manishakittu/cst600-week07-ensembles
    cd cst600-week07-ensembles
 
 
